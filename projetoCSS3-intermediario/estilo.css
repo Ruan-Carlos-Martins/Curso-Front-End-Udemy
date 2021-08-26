@@ -1,0 +1,44 @@
+
+
+/*
+
+.conteudo {
+	border: 1px solid red;
+	
+
+	padding: 10px 15px 10px 15px ;
+
+	padding: 20px;
+
+	
+
+	
+	margin-top:20px;
+	margin-right: 20px;
+	margin-left: 20px;
+	margin-bottom: 20px;
+	
+	margin: 10px;
+	width: 150px;
+}
+.conteudo2 {
+	border: 1px solid red;
+	width: 150px;
+	margin: 5px;
+	padding: 20px;
+}
+*/
+
+/* Margin / Margem - Espaçamento fora do conteúdo. Padding / Preenchimento - Espaçamento dentro dos limites do conteúdo. */
+
+#noticia {
+
+	padding: 10px;
+	background:darkgrey;
+	border: 1px solid red;
+
+}
+h2{
+	
+	margin: 0px;
+}

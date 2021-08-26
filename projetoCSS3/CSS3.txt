@@ -1,0 +1,29 @@
+OBSERVAÇÕES CSS :
+
+<span>  =>  é um conteiner generico em linha para conteúdo fraseado , que não representa nada por natureza. Ele pode ser usado para agrupar elementos para fins de estilo (usando os atributos class ou id ), ou para compartilhar valores de atributos como lang.
+<span> dentro de outra tag, a <p>, e aplicamos um estilo somente dentro daquele trecho específico.
+
+site para ver bordas em CSS : https://www.w3schools.com/css/css_border.asp
+
+Comentário em CSS =>  /* comentário */
+
+Fontes css : https://www.w3schools.com/css/css_font.asp
+
+OBS
+px -> tamanho fixo
+% -> tamanho relativo
+em -> tamanho relativo ao container pai
+
+
+OBS IMAGEM DE FUNDO: 
+background-image: url('imagens/yoshi.png'); -> para acessar imagem de fundo na pasta local.
+
+background-repeat: no-repeat; -> para controlar a repetição de imagens de fundo. 
+(reapet-x, reapt-y, no-repeat) 
+
+background-attachment: fixed; -> para fixar a imagem de fundo.
+(scrool,fixed)
+
+background-position: center bottom; -> para definir posicionamento da imagem.
+( primeiro valor: left,center,right
+segundo varlo: top, center, bottom)

@@ -1,0 +1,83 @@
+OBSERVAÇÕES IMPORTANTES:
+
+Tag : <meta charset="utf-8">  => É o que usamos na web atual e faz parte de um padrão chamado unicode. A ideia é que com ele possamos representar qualquer caractere de qualquer idioma.
+
+OBS: https://www.lipsum.com/ => Site para pegar textos de todos os tipos.
+
+Tag: <hr>  => linhas horizontais para separar conteúdos 
+
+OBS: <!-- -->  => comentário em html 
+
+OBS: idex.html => nome dado para página principal do site.
+
+
+
+OBSERVAÇÕES SOBRE TABELAS EM HTML:
+
+<table></table> => tag para criar tabela
+
+<tr></tr> => linhas da tabela
+
+<td></td> => contúdo da tabela
+
+<th></th> => título da tabela
+
+<td colspan="2"> => atributo para o número de tabelas que o contúdo vai ocupar
+
+<td rowspan="2">  => atributo para o número de linhas que o contúdo vai ocupar
+
+
+
+OBSERVAÇÕES SOBRE FOMULÁRIOS:
+
+ <input> => é usado para criar controles interativos para formulários baseados na web para receber dados do usuário.
+
+ <form> =>  O FORM submete os dados de entrada do usuário a um programa que se encarregará do processamento desses dados, de acordo com o interesse do criador do documento.
+
+ OBS <select> e <option>:  => O elemento HTML select (<select>) representa um controle que apresenta um menu de opções. As opções dentro do menu são representadas pelo elemento <option> , que podem ser agrupados por elementos <optgroup> . As opções podem ser pré-selecionadas para o usuário.
+
+<textarea></textarea> : Caixa de texto com tamanho maior.
+
+
+
+Entidades HTML :
+Alguns caracteres são reservados em HTML.
+
+Se você usar os sinais de menor que (<) ou maior que (>) em seu texto, o navegador pode misturá-los com tags.
+
+As entidades de caracteres são usadas para exibir caracteres reservados em HTML.
+
+verificar entidades no site: https://www.w3schools.com/html/html_entities.asp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
